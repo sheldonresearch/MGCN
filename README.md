@@ -31,9 +31,3 @@ citation:
 }
 
 ```
-
-
-
-contact Xiangguo if you have any further question:
-
-sunxiangguo@seu.edu.cn
